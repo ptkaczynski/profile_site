@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Three generations of olive baboons hanging out'
+  caption: 'Joan grooming Lewis'
   focal_point: ""
   preview_only: false
 

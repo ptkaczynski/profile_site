@@ -23,10 +23,10 @@ title: "Proximate mechanisms of individual differences"
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings. Much of my work has explored how glucorticoids are related to socioecology and behaviour, but some more recent work has also explored other physiological measures such as growth and oxytocin secretion.
+abstract: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings.
 
 # Summary. An optional shortened abstract.
-summary: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings. Much of my work has explored how glucorticoids are related to socioecology and behaviour, but some more recent work has also explored other physiological measures such as growth and oxytocin secretion.
+summary: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings.
 
 #tags: []
 
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Three generations of olive baboons hanging out'
+  caption: 'A juvenile olive baboon in Gashaka Gumti National Park'
   focal_point: ""
   preview_only: false
 
@@ -70,6 +70,8 @@ image:
 #slides: example
 ---
 
-{{% staticref "uploads/test.pdf" "newtab" %}}Measuring personality in wild monkeys{{% /staticref %}}
+{{% staticref "uploads/spatialstress.pdf" "newtab" %}}Tkaczynski et al (2014) - Spatial position, stress and anxiety in baboons{{% /staticref %}}
 
-{{% staticref "uploads/test.pdf" "newtab" %}}Social phenotypes in chimpanzees{{% /staticref %}}
+{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}
+
+{{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Tkaczynski et al (2020) - Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
