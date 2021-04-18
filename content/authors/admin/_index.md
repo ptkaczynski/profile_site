@@ -18,10 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Sociality
-- Behavioural syndromes/personality
-- Behavioural endocrinology & ecophysiology
-- Developmental & behavioural plasticity
+- Behavioural syndromes
+- Behavioural endocrinology
+- Ecophysiology
+- Developmental plasticity
+- Maternal effects
 - Wildlife in the Anthropocene
 
 # Education to show in About widget
