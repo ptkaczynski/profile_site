@@ -23,10 +23,10 @@ title: "Proximate mechanisms of individual differences"
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Some of my work using behavioural observations, field experiments, and social network analyses to quantfiy individual differences in social behaviours and strategies.
+abstract: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings. Much of my work has explored how glucorticoids are related to socioecology and behaviour, but some more recent work has also explored other physiological measures such as growth and oxytocin secretion.
 
 # Summary. An optional shortened abstract.
-summary: Some of my work using behavioural observations, field experiments, and social network analyses to quantfiy individual differences in social behaviours and strategies.
+summary: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings. Much of my work has explored how glucorticoids are related to socioecology and behaviour, but some more recent work has also explored other physiological measures such as growth and oxytocin secretion.
 
 #tags: []
 
