@@ -69,9 +69,9 @@ email: ""
 highlight_name: false
 ---
 
-I'm a behavioural ecologist aiming to understand how animals maximise the benefits and minimise the costs of group living. I'm particularly interested in individual differences in social behaviours and strategies, the factors that influence their development during ontogeny, and the proximate processes associated with these differences. Ultimately, I wish to understand the interplay between social structures and individual social decisions, and how these dynamics may be changing due to human activity and habitat change.
+I'm a behavioural ecologist aiming to understand how animals maximise the benefits and minimise the costs of group living. I'm particularly interested in quantifying individual differences in social behaviours and strategies, identifying how these differences emerge during development, as well as the physiological, proximate mechansisms associated with different social strategies throughout the lifespan. Ultimately, I hope to understand the interplay between social structures and individual social decisions.
 
-My work has primarily focused on wild, non-human primates as model species. As most populations of these animals are under threat due to anthropogenic activity, I hope to ascertain how group-living may mediate or exaggerate human-related threats to population persistence and survival.
+My work has focused on wild, non-human primates as model species to address these questions. As most populations of these animals are under threat due to anthropogenic activity, I hope to ascertain how group-living may mediate or exaggerate human-related threats to population persistence and survival.
 
 Outside of science, I'm a long-suffering Pompey fan, comic book enthusiast, and hobbyist photographer and illustrator.
 
