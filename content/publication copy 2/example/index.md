@@ -1,5 +1,5 @@
 ---
-title: "Proximate mechanisms of individual differences"
+title: "Developmental plasticity and maternal effects"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,10 +23,10 @@ title: "Proximate mechanisms of individual differences"
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings.
+abstract: How do socioecological settings during development predict physiological and behavioural phenotypes later in life? 
 
 # Summary. An optional shortened abstract.
-summary: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings.
+summary: How do socioecological settings during development predict physiological and behavioural phenotypes later in life? 
 
 #tags: []
 
