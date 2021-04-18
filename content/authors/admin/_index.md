@@ -78,4 +78,4 @@ Prior to a career in academia, I worked as an ecological consultant on coastal c
 
 Outside of work, I'm a long-suffering Pompey fan, comic book enthusiast, and hobbyist photographer and illustrator.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf">}}resumé{{< /staticref >}}.
