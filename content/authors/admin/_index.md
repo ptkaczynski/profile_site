@@ -73,6 +73,8 @@ I'm a behavioural ecologist aiming to understand how animals maximise the benefi
 
 My work has focused on wild, non-human primates as model species to address these questions. As most populations of these animals are under threat due to anthropogenic activity, I hope to ascertain how group-living may mediate or exaggerate human-related threats to population persistence and survival.
 
-Outside of science, I'm a long-suffering Pompey fan, comic book enthusiast, and hobbyist photographer and illustrator.
+Prior to a career in academia, I worked as an ecological consultant on coastal conservation projects, and before that as a medical writer.
+
+Outside of work, I'm a long-suffering Pompey fan, comic book enthusiast, and hobbyist photographer and illustrator.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
