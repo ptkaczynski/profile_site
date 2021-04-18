@@ -72,6 +72,6 @@ image:
 
 {{% staticref "uploads/spatialstress.pdf" "newtab" %}}Tkaczynski et al (2014) - Spatial position, stress and anxiety in baboons{{% /staticref %}}
 
-{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}
-
 {{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Tkaczynski et al (2020) - Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
+
+{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}

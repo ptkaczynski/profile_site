@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A juvenile olive baboon in Gashaka Gumti National Park'
+  caption: 'A chimpanzee mother and infant at rest'
   focal_point: ""
   preview_only: false
 
@@ -70,8 +70,6 @@ image:
 #slides: example
 ---
 
-{{% staticref "uploads/spatialstress.pdf" "newtab" %}}Tkaczynski et al (2014) - Spatial position, stress and anxiety in baboons{{% /staticref %}}
+{{% staticref "uploads/growth.pdf" "newtab" %}}Samuni, Tkaczynski et al (2020) - Maternal effects on growth in chimps {{% /staticref %}}
 
-{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}
-
-{{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Tkaczynski et al (2020) - Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
+{{% staticref "uploads/growth.pdf" "newtab" %}}Brundl, Tkaczynski et al (2021) - Developmental milestones in chimps {{% /staticref %}}
