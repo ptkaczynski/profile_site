@@ -70,6 +70,8 @@ image:
 #slides: example
 ---
 
-{{% staticref "uploads/growth.pdf" "newtab" %}}Samuni, Tkaczynski et al (2020) - Maternal effects on growth in chimps {{% /staticref %}}
+{{% staticref "uploads/growth.pdf" "newtab" %}}Maternal effects on growth in chimps {{% /staticref %}}
 
-{{% staticref "uploads/growth.pdf" "newtab" %}}Brundl, Tkaczynski et al (2021) - Developmental milestones in chimps {{% /staticref %}}
+{{% staticref "uploads/milestones.pdf" "newtab" %}}Developmental milestones in chimps {{% /staticref %}}
+
+{{% staticref "uploads/slopes.pdf" "newtab" %}}Maternal loss and cortisol slopes {{% /staticref %}}

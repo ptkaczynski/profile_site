@@ -76,5 +76,7 @@ image:
 
 {{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
 
+{{% staticref "uploads/slopes.pdf" "newtab" %}}Maternal loss and cortisol slopes {{% /staticref %}}
+
 {{% staticref "uploads/scope.pdf" "newtab" %}}Assessing adaptability and reactive scope{{% /staticref %}}
 
