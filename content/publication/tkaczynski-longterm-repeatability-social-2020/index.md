@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:24:37.103940Z'
+publishDate: '2021-04-20T08:31:37.774889Z'
 publication_types:
 - '2'
 abstract: Consistent individual differences in social phenotypes have been observed

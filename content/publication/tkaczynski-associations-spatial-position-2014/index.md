@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:11.610791Z'
+publishDate: '2021-04-20T08:31:37.030370Z'
 publication_types:
 - '2'
 abstract: Spatial position within a group affects the value of group-living benefits

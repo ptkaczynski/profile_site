@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:05.713376Z'
+publishDate: '2021-04-20T08:31:30.795578Z'
 publication_types:
 - '2'
 abstract: "Several theories have been generated to understand the socio-cognitive\

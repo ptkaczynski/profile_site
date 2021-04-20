@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:06.434363Z'
+publishDate: '2021-04-20T08:31:31.576673Z'
 publication_types:
 - '2'
 abstract: Infant care from adult males is unexpected in species with high paternity

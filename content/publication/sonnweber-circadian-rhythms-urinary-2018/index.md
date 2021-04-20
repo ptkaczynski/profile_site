@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:09.417568Z'
+publishDate: '2021-04-20T08:31:34.674942Z'
 publication_types:
 - '2'
 abstract: Investigating the repeatability of trait variation between individuals,

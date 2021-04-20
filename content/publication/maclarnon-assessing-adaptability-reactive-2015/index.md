@@ -55,7 +55,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:07.194461Z'
+publishDate: '2021-04-20T08:31:32.373957Z'
 publication_types:
 - '2'
 abstract: In order to maintain regulatory processes, animals are expected to be adapted

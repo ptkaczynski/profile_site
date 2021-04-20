@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:24:37.784559Z'
+publishDate: '2021-04-20T08:31:40.102646Z'
 publication_types:
 - '2'
 abstract: Behavioural syndromes are a well-established phenomenon in human and non-human

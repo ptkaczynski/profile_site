@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:05.002396Z'
+publishDate: '2021-04-20T08:31:30.051756Z'
 publication_types:
 - '2'
 abstract: $<$p$>$In mammals, early life adversity negatively affects survival and

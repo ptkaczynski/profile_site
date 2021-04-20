@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:08.663904Z'
+publishDate: '2021-04-20T08:31:33.874939Z'
 publication_types:
 - '2'
 abstract: In animals with altricial offspring, most growth occurs after birth and

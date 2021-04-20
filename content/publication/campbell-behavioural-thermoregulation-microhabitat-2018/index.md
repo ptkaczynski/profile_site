@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:24:36.356992Z'
+publishDate: '2021-04-20T08:31:27.025148Z'
 publication_types:
 - '2'
 abstract: Strategic microhabitat selection allows animals in seasonally cold environments

@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-20T08:20:01.277687Z'
+publishDate: '2021-04-20T08:31:26.225555Z'
 publication_types:
 - '2'
 abstract: The wounding or death of a conspecific has been shown to elicit varied behavioral
