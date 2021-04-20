@@ -70,9 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm a behavioural ecologist, and occasional comparative psychologist, aiming to understand how animals maximise the benefits and minimise the costs of group living. My research examines individual differences in social behaviours and strategies, identifies how these differences emerge during development, and explores the physiological and proximate processes associated with different social strategies throughout the lifespan. 
-
-My work has focused on wild, non-human primates as model species to address these questions. Most primate species are under threat due to anthropogenic activity. Therefore, I hope to ascertain how group-living may mediate or exaggerate human-related threats to population persistence and survival. I believe this work can also inform on the limits of social plasticity in humans and other animals during the rapid environmental change of the Anthropocene.
+I'm a behavioural ecologist, and occasional comparative psychologist, aiming to understand how different individuals manage their social lives and the impact these choices have on social structures. My work focuses on wild, non-human primates as model species to address these questions. Most primate species are under threat due to anthropogenic activity. Therefore, I hope to ascertain how group-living may mediate or exaggerate human-related threats to individual fitness, as well as population persistence and survival.
 
 Prior to a career in academia, I worked as an ecological consultant on coastal conservation projects, and before that as a medical writer.
 

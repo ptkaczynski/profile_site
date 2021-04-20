@@ -23,10 +23,10 @@ title: "Proximate mechanisms of individual differences"
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings.
+abstract: Which proximate processes mediate individual differences in social behaviour across different ecological settings? Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecology, with a main focus on the role of glucocorticoids.
 
 # Summary. An optional shortened abstract.
-summary: Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecological settings.
+summary: Which proximate processes mediate individual differences in social behaviour across different ecological settings? Using non-invasive field sampling and endocrinology, I quantify physiological correlates of social behaviours and ecology, with a main focus on the role of glucocorticoids.
 
 #tags: []
 
@@ -72,6 +72,7 @@ image:
 
 {{% staticref "uploads/spatialstress.pdf" "newtab" %}}Tkaczynski et al (2014) - Spatial position, stress and anxiety in baboons{{% /staticref %}}
 
+{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}
+
 {{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Tkaczynski et al (2020) - Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
 
-{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}

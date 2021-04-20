@@ -23,10 +23,10 @@ title: "Developmental plasticity and maternal effects"
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: How do socioecological settings during development predict physiological and behavioural phenotypes later in life? 
+abstract: How do socioecological settings during development predict physiological and behavioural phenotypes later in life? My more recent work has taken a ontogenetic approach to understanding social behaviour. Primates are long-lived species with protracted developmental phases and prolonged dependencies on mothers for care and nutrition, therefore, I'm particular interested in the evolution of maternal care and its role in shaping social phenotypes.
 
 # Summary. An optional shortened abstract.
-summary: How do socioecological settings during development predict physiological and behavioural phenotypes later in life? 
+summary: How do socioecological settings during development predict physiological and behavioural phenotypes later in life? My more recent work has taken a ontogenetic approach to understanding social behaviour. Primates are long-lived species with protracted developmental phases and prolonged dependencies on mothers for care and nutrition, therefore, I'm particular interested in the evolution of maternal care and its role in shaping social phenotypes.
 
 #tags: []
 
