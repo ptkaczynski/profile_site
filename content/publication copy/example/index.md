@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A juvenile olive baboon in Gashaka Gumti National Park'
+  caption: 'A juvenile olive baboon'
   focal_point: ""
   preview_only: false
 
@@ -70,9 +70,11 @@ image:
 #slides: example
 ---
 
-{{% staticref "uploads/spatialstress.pdf" "newtab" %}}Tkaczynski et al (2014) - Spatial position, stress and anxiety in baboons{{% /staticref %}}
+{{% staticref "uploads/spatialstress.pdf" "newtab" %}}Spatial position, stress and anxiety in baboons{{% /staticref %}}
 
-{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Tkaczynski et al (2019) - Behavioural syndromes and GCs in macaques{{% /staticref %}}
+{{% staticref "uploads/syndromeGC.pdf" "newtab" %}}Behavioural syndromes and GCs in macaques{{% /staticref %}}
 
-{{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Tkaczynski et al (2020) - Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
+{{% staticref "uploads/ontogenystress.pdf" "newtab" %}}Cortisol levels during ontogeny in chimps & bonobos{{% /staticref %}}
+
+{{% staticref "uploads/scope.pdf" "newtab" %}}Assessing adaptability and reactive scope{{% /staticref %}}
 

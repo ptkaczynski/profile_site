@@ -1,5 +1,5 @@
 ---
-title: "Measuring individual differences in social behaviour"
+title: "Wildlife in the Anthropocene"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,10 +23,11 @@ title: "Measuring individual differences in social behaviour"
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: How can we best quantify individual differences in social behaviour? Using a combination of behavioural observations, field experiments, and social network analyses, I aim to determine what behavioural phenotypes exist in wild primate populations.
+abstract: The current geological epoch, the Anthropocene, is characterised by widespread human-derived alterations of wildlife socioecology. The rate of these changes may now be exceeding many species’ rate of adaptation, leading to evolutionary mismatches between genotypes evolved in a pre-Anthropocene era. I want to understand how this impacts primate individuals and populations, and the limitations of developmental and behavioural plasticity in coping with a rapidly changing world.
 
 # Summary. An optional shortened abstract.
-summary: How can we best quantify individual differences in social behaviour? Using a combination of behavioural observations, field experiments, and social network analyses, I aim to determine what behavioural phenotypes exist in wild primate populations.
+summary: The current geological epoch, the Anthropocene, is characterised by widespread human-derived alterations of wildlife socioecology. The rate of these changes may now be exceeding many species’ rate of adaptation, leading to evolutionary mismatches between genotypes evolved in a pre-Anthropocene era. I want to understand how this impacts individuals and populations, and the limitations of developmental and behavioural plasticity in coping with a rapidly changing world. 
+
 
 #tags: []
 
@@ -50,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Joan grooming Lewis'
+  caption: 'Tim, a wild Barbary macaque, feeds near a herd of sheep'
   focal_point: ""
   preview_only: false
 
@@ -70,6 +71,10 @@ image:
 #slides: example
 ---
 
-{{% staticref "uploads/test.pdf" "newtab" %}}Measuring personality in wild monkeys{{% /staticref %}}
+{{% staticref "uploads/death.pdf" "newtab" %}}Behavioural responses to anthropogenic injury and death in macaques{{% /staticref %}}
 
-{{% staticref "uploads/test.pdf" "newtab" %}}Social phenotypes in chimpanzees{{% /staticref %}}
+{{% staticref "uploads/trees.pdf" "newtab" %}}Winter sleeping areas in an endangered primate{{% /staticref %}}
+
+{{% staticref "uploads/baselines.pdf" "newtab" %}}Shifting environmental baselines in the Red Sea{{% /staticref %}}
+
+{{% staticref "uploads/scope.pdf" "newtab" %}}Assessing adaptability and reactive scope{{% /staticref %}}

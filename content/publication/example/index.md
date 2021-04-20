@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Joan grooming Lewis'
+  caption: 'Joan grooming Lewis (Barbary macaques in Morocco)'
   focal_point: ""
   preview_only: false
 
@@ -70,6 +70,8 @@ image:
 #slides: example
 ---
 
-{{% staticref "uploads/test.pdf" "newtab" %}}Measuring personality in wild monkeys{{% /staticref %}}
+{{% staticref "uploads/measuring.pdf" "newtab" %}}Measuring personality in wild monkeys{{% /staticref %}}
 
-{{% staticref "uploads/test.pdf" "newtab" %}}Social phenotypes in chimpanzees{{% /staticref %}}
+{{% staticref "uploads/phenotype.pdf" "newtab" %}}Social phenotypes in chimpanzees{{% /staticref %}}
+
+{{% staticref "uploads/huddle.pdf" "newtab" %}}Social relationships and fitness in macaques{{% /staticref %}}
